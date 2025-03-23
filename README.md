@@ -1,0 +1,2 @@
+# Analyzing-the-impact-and-awareness-of-Rashtriya-Kishor-Swasthya-Karyakram-RKSK-in-rural-communities.
+This repository contains data analysis and insights from our rural survey on the Rashtriya Kishor Swasthya Karyakram (RKSK) in Soraon, Prayagraj. Using SPSS, we conducted cross-tabulations and chi-square tests to assess awareness, accessibility, and impact on adolescent health, identifying key challenges and solutions.
